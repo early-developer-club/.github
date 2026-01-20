@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="1584" height="396" alt="image 5" src="https://github.com/user-attachments/assets/a63a5562-4143-4ac5-80ec-39fab8887315" />
-</p>
+<a href="https://club-house-sigma.vercel.app/" target="_blank">
+  <p align="center">
+    <img width="1584" height="396" alt="image 5" src="https://github.com/user-attachments/assets/a63a5562-4143-4ac5-80ec-39fab8887315" />
+  </p>
+</a>
 
 # 🤖 Vibe Coding Club
 
