@@ -4,6 +4,8 @@
   </p>
 </a>
 
+_[vibe-coding-club.vercel.app](https://club-house-sigma.vercel.app/)_
+
 # 🤖 Vibe Coding Club
 
 > **"Vibe로 연결되고, 코드로 구현하는 메이커들의 아지트"** > Vibe Coding Club은 영감을 공유하고 함께 결과물을 만들어가는 지속 가능한 성장을 지향합니다.
